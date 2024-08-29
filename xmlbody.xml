@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pet>
+	<id>0</id>
+	<Category>
+		<id>125</id>
+		<name>Barking</name>
+	</Category>
+	<name>Tommy</name>
+	<photoUrls>
+		<photoUrl>www.com</photoUrl>
+	</photoUrls>
+	<tags>
+		<Tag>
+			<id>0</id>
+			<name>string</name>
+		</Tag>
+	</tags>
+	<status>available</status>
+</Pet>
